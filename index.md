@@ -4,15 +4,15 @@
 
 ### ML on medical image 
 
-[Project 1 Title](/sample_page)
+[CCL](/sample_page)
+<img src="https://raw.githubusercontent.com/cancer-research-data-inside/lymphoma_classifier/master/CLL_H_E_DAB.png?raw=true"/>
+
+---
+[FL](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[MCL](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
