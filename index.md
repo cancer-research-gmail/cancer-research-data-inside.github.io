@@ -26,10 +26,7 @@
 - [Project 5 Title](http://example.com/)
 
 ---
-All comments are welcome:
-- Medical professional can feedback at our [medical professional wiki page](https://github.com/cancer-research-data-inside/lymphoma/wiki/Medical-professional-discussion-page).
-- Data scientist comments go [data analysis wiki page](https://github.com/cancer-research-data-inside/lymphoma/wiki/data-analysis-discussion-page).
-- Other comments go [guest wiki page](https://github.com/cancer-research-data-inside/lymphoma/wiki/Guest-wiki-page).
+
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
