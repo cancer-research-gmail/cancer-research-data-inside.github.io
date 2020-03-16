@@ -4,7 +4,7 @@
 
 ### ML on medical image 
 
-[CCL H.E.DAB](/sample_page)
+[CCL H.E.DAB channel](/sample_page)
 <img src="https://raw.githubusercontent.com/cancer-research-data-inside/lymphoma_classifier/master/CLL_H_E_DAB.png?raw=true"/>
 
 ---
