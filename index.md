@@ -4,16 +4,16 @@
 
 ### ML on medical image 
 
-[CCL H.E.DAB channel](/sample_page)
+[CCL H.E.DAB](/sample_page)
 <img src="https://raw.githubusercontent.com/cancer-research-data-inside/lymphoma_classifier/master/CLL_H_E_DAB.png?raw=true"/>
 
 ---
-[FL](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[FL H.E.DAB](/pdf/sample_presentation.pdf)
+<img src="https://raw.githubusercontent.com/cancer-research-data-inside/lymphoma_classifier/master/FL_H_E_DAB.png"/>
 
 ---
-[MCL](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[MCL H.E.DAB](http://example.com/)
+<img src="https://raw.githubusercontent.com/cancer-research-data-inside/lymphoma_classifier/master/MCL_H_E_DAB.png?raw=true"/>
 
 ---
 
