@@ -2,6 +2,12 @@
 
 ---
 
+### ML on lymphoma sample images:
+
+- Click [here](https://github.com/cancer-research-data-inside/lymphoma/blob/master/Report.md) to see updated report
+- Clock [here](https://github.com/cancer-research-data-inside/cancer-research-data-inside.github.io/blob/master/pdf/Mispredicted%20patches.pdf) to see mispredict path images
+
+---
 ### Medical image transform and analysis:
 
 [CCL H.E.DAB](/sample_page)
@@ -19,12 +25,6 @@
 
 ---
 
-### ML on lymphoma sample images:
-
-- Click [here](https://github.com/cancer-research-data-inside/lymphoma/blob/master/Report.md) to see updated report
-- Clock [here](https://github.com/cancer-research-data-inside/cancer-research-data-inside.github.io/blob/master/pdf/Mispredicted%20patches.pdf) to see mispredict path images
-
----
   All comments are welcome:
 - Medical professional can feedback at our [medical professional wiki page](https://github.com/cancer-research-data-inside/lymphoma/wiki/Medical-professional-discussion-page).
 - Data scientist comments go [data analysis wiki page](https://github.com/cancer-research-data-inside/lymphoma/wiki/data-analysis-discussion-page).
