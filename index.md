@@ -21,8 +21,8 @@
 
 ### ML on lymphoma sample images:
 
-- [Report update:](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [Report update:](https://raw.githubusercontent.com/cancer-research-data-inside/lymphoma/master/Report.md)
+- [Mispredict pathes](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
