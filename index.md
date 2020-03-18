@@ -22,10 +22,7 @@
 ### ML on lymphoma sample images:
 
 - Click [here](https://github.com/cancer-research-data-inside/lymphoma/blob/master/Report.md) to see updated report
-- [Mispredict pathes](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- Clock [here](https://github.com/cancer-research-data-inside/cancer-research-data-inside.github.io/blob/master/pdf/Mispredicted%20patches.pdf) to see mispredict path images
 
 ---
   All comments are welcome:
