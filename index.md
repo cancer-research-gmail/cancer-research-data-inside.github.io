@@ -2,7 +2,7 @@
 
 ---
 
-### ML on medical image 
+### Medical image transform and analysis:
 
 [CCL H.E.DAB](/sample_page)
 <img src="https://raw.githubusercontent.com/cancer-research-data-inside/lymphoma_classifier/master/CLL_H_E_DAB.png?raw=true"/>
@@ -15,11 +15,13 @@
 [MCL H.E.DAB](http://example.com/)
 <img src="https://raw.githubusercontent.com/cancer-research-data-inside/lymphoma_classifier/master/MCL_H_E_DAB.png?raw=true"/>
 
+...
+
 ---
 
-### Statistics study and data visualization
+### ML on lymphoma sample images:
 
-- [Project 1 Title](http://example.com/)
+- [Report update:](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
