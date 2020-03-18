@@ -5,7 +5,7 @@
 ### ML on lymphoma sample images:
 
 - Click [here](https://github.com/cancer-research-data-inside/lymphoma/blob/master/Report.md) to see updated report
-- Clock [here](https://github.com/cancer-research-data-inside/cancer-research-data-inside.github.io/blob/master/pdf/Mispredicted%20patches.pdf) to see mispredict path images
+- Clock [here](https://github.com/cancer-research-data-inside/cancer-research-data-inside.github.io/blob/master/pdf/Mispredicted%20patches.pdf) to see mispredicted patch images
 
 ---
 ### Medical image transform and analysis:
